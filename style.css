@@ -1,6 +1,16 @@
-.grid {
+#grid {
     display: flex;
     flex-wrap: wrap;
-    width: 400px;
-    height: 300px;
+    width: 960px;
+    margin: 0 auto;
   }
+#result{
+  text-align: center;
+  font-size: 50px;
+}
+img{
+  padding: 10px;
+  border-radius: 20%;
+  height: auto;
+  width: 200px;
+}
